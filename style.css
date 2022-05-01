@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 .section{
-    background-color: #eee;
+    background-color: #00204A;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -20,7 +21,7 @@
     align-items: center;
     justify-content: space-evenly;
     border-radius: 6px;
-    background-color: #333;
+    background-color: #005792;
     position: relative;
 }
 .section .container img{
@@ -32,9 +33,9 @@
     width: 150px;
     border-radius: 50%;
     border: 5px solid transparent;
-    border-bottom: 5px solid #999;
-    border-right: 5px solid #999;
-    border-left: 5px solid #999;
+    border-bottom: 5px solid #00BBF0;
+    border-right: 5px solid #00BBF0;
+    border-left: 5px solid #00BBF0;
 }
 .img{
     height: 100vh;
